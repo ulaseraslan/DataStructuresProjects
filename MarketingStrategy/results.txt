@@ -1,0 +1,14 @@
+bananas;orange;0.75
+orange;bananas;0.75
+bread,orange;bananas;0.66
+orange,milk;bananas;0.66
+orange;bread;0.75
+bread;milk;0.85
+milk;bread;0.85
+bananas,orange;bread;0.66
+orange,milk;bread;1.00
+orange;milk;0.75
+orange;bread,milk;0.75
+bananas,orange;milk;0.66
+bread,orange;milk;1.00
+bananas,orange;bread,milk;0.66
